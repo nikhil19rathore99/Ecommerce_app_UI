@@ -1,7 +1,6 @@
 # ecommerce_app
 
 A new Flutter project.
-![](Screenshot 2020-02-02 at 4.09.13 PM.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
